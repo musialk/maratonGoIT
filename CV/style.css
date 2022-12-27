@@ -1,0 +1,69 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #fffeeed6;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200;
+    justify-self: center;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+    width: 370px;
+    background: rgb(8, 8, 64);
+}
+
+.cv-foto {
+    margin: 25px 0 0 0;
+}
+
+.header2 {
+    color: #ffffff;
+}
+
+.kontact {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.list2 {
+    color: #c37c21;
+    font-weight: lighter;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.item2 {
+    color: #ffffff;
+    font-weight: 200;
+}
+
+.kontact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.soft-block {
+    margin-top: 44px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
